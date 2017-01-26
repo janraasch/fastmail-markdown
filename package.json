@@ -1,0 +1,24 @@
+{
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/janraasch/fastmail-markdown.git"
+  },
+  "name": "fastmail-markdown",
+  "version": "1.0.0",
+  "description": "Bookmarklet enhancing FastMail Plain Text content with Markdown rendering.",
+  "main": "src/index.js",
+  "scripts": {
+    "build-bookmarklet-js": "uglifyjs ./node_modules/showdown/dist/showdown.js ./src/index.js -c -m -o dist/bookmarklet.js",
+    "pbcopy": "npm run build-bookmarklet-js && cat dist/bookmarklet.js | pbcopy",
+    "test": "eslint src/*.js *.js && npm run build-index-html",
+    "build-index-html": "npm run build-bookmarklet-js && node ./index.js"
+  },
+  "author": "Jan Raasch",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.6.1",
+    "uglify-js": "^3.0.28",
+    "showdown": "^1.0.0"
+  }
+}
