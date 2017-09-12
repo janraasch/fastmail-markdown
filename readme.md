@@ -8,6 +8,7 @@
 - [ ] usage instructions (gif???)
 - [ ] prettify github page?
 - [ ] add favicon? (https://github.com/dcurtis/markdown-mark)
+- [ ] add contributing section to readme
 
 ## Ideas for index.HTML
 
