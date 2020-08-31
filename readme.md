@@ -11,6 +11,10 @@ Navigate to <a href="https://janraasch.github.io/fastmail-markdown">this page</a
 - [showdown](https://github.com/showdownjs/showdown) for Markdown to HTML conversion.
 - [fastmail](https://www.fastmail.com/) for E-mails and Notes :).
 
+## Sponsor
+
+Support my work on this project via [PayPal](https://paypal.me/janraasch/4,99).
+
 ## License
 
 [MIT License](http://en.wikipedia.org/wiki/MIT_License) © [Jan Raasch](https://www.janraasch.com)
