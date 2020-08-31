@@ -4,7 +4,7 @@
 
 ## Usage
 
-Navigate to <a href="http://www.janraasch.com/fastmail-markdown">this page</a> to get the bookmarklet.
+Navigate to <a href="https://janraasch.github.io/fastmail-markdown">this page</a> to get the bookmarklet.
 
 ## Thank you
 
