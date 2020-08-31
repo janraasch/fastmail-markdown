@@ -2,24 +2,6 @@
 
 > Markdown rendering for your FastMail Plain Text content.
 
-## TODO
-
-- [ ] think about making this a chrome extension?
-- [ ] usage instructions (gif???)
-- [ ] prettify github page?
-- [ ] add favicon? (https://github.com/dcurtis/markdown-mark)
-- [ ] add contributing section to readme
-
-## Ideas for index.HTML
-
-https://www.fastmail.com/about/logos/blue-on-transparent.png
-
-+
-
-https://github.com/dcurtis/markdown-mark
-
-Make it look like fastmail.com hero page
-
 ## Usage
 
 Navigate to <a href="http://www.janraasch.com/fastmail-markdown">this page</a> to get the bookmarklet.
