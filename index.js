@@ -26,9 +26,17 @@ var indexHtml = [
   'Then navigate to your <a href="https://www.fastmail.com/notes/">FastMail Notes</a> ',
   'or <a href="https://www.fastmail.com/mail/">FastMail Mails</a> ',
   'and click on the bookmark to toggle markdown rendering for your plain text notes',
-  '<br>',
+  '</p>',
+  '<h2>Source Code</h2>',
+  '<p>',
   'The source code is available on <a href="https://github.com/janraasch/fastmail-markdown">GitHub</a>.',
   '</p>',
+  '<h2>Sponsor</h2>',
+  '<p>',
+  'Support my work on this project via <a href="https://paypal.me/janraasch/4,99">PayPal</a>.',
+  '</p>',
+  '<h2>License</h2>',
+  '<p><a href="http://en.wikipedia.org/wiki/MIT_License">MIT License</a> © <a href="https://www.janraasch.com">Jan Raasch</a></p>',
   '</body>',
   '</html>'
 ].join('');
