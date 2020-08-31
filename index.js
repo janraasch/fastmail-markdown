@@ -22,7 +22,7 @@ var indexHtml = [
   '</head>',
   '<body>',
   '<h1>fastmail-markdown bookmarklet</h1>',
-  '<p>Enhance FastMail plain text content (i.e. notes & emails) with markdown rendering</p>',
+  '<p>Enhance FastMail plain text content (i.e. notes & emails) with markdown rendering.</p>',
   '<h2>Usage</h2>',
   '<p>First, drag and drop this sweet bookmarklet to your bookmarks bar, if you so dare ;-).</p>',
   '<p>',
