@@ -17,7 +17,7 @@
   "author": "Jan Raasch",
   "license": "MIT",
   "devDependencies": {
-    "eslint": "^4.6.1",
+    "eslint": "^8.38.0",
     "uglify-js": "^3.0.28",
     "showdown": "^1.0.0"
   }
